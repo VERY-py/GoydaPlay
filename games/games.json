@@ -1,0 +1,8 @@
+{
+  "0000000001" : ["MashinaG.zip", "Car ZZ", 63279104, ["python 3.13", "pygame"], "run.bat", "1.0.0"],
+  "0000000002" : ["RuRoulette.zip", "RuLetka", 68501504, ["windows 10/11 x64"], "Ru Roulette.exe", "0.4.3"],
+  "0000000003" : ["Converter.zip", "Pixilizator", 615, ["python 3.13", "pygame", "PIL"], "run.bat", "1.0.1"],
+  "0000000004" : ["DomE.zip", "CUBE", 524288, ["python 3.13", "pygame", "pygame-gui"], "run.bat", "0.8.8.2"],
+  "0000000005" : ["CS_2D.zip", "CS_2D", 118784, ["python 3.13", "pygame"], "run.bat", "0.3"],
+  "0000000006" : ["Ravenfield.zip", "Ravenfield", 4706942976, ["windows 7/8/10/11"], "ravenfield.exe", "build 50"]
+}

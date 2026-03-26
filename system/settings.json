@@ -1,0 +1,6 @@
+{
+  "lang": "ru",
+  "server_url": "http://95.181.212.148/",
+  "max_parallel_downloads": 2,
+  "downloads_folder": "games/files"
+}
